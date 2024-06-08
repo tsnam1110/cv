@@ -211,10 +211,25 @@ section {
 }
 .soft-skills{
     padding-top: 20px;
-    padding-bottom: 30px;
 }
 .soft-skills-list ul{
     margin: 0;
+}
+.education-list{
+    display: grid;
+    gap: 5px;
+    margin-bottom: 30px;
+}
+.education-time{
+    font-weight: 600;
+}
+.education-school{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.education-detail{
+    font-weight: 700;
+    color: #000;
 }
 li::before {
     content: "-";
