@@ -83,7 +83,6 @@ header {
     background: #fff;
     /* color: #66aebe; */
     padding-bottom: 10px;
-    /* border-bottom: #77aaff 3px solid; */
     text-transform: uppercase;
     text-align: left;
     position: relative;
@@ -106,7 +105,6 @@ header img.avatar {
 }
 
 header h1 {
-    /* text-align: center; */
     margin: 0;
     font-size: 24px;
 }
@@ -207,7 +205,6 @@ section:last-child{
     display: grid;
     grid-template-columns: repeat(2,minmax(0,1fr));
     gap: 10px;
-    /* padding-bottom: 30px; */
 }
 .skill-items{
     display: grid;
