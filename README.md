@@ -1,6 +1,9 @@
 # Chào mừng bạn đến với CV của Trần Sơn Nam nhé.
 #### Bạn muốn biết nhiều hơn về công việc của tôi à? Xem thêm ở bên dưới nhé.
 
+## Xem CV của tôi:
+https://tsnam1110.github.io/cv/
+
 ## 🛤 Lộ trình thăng tiến:
 DEV - EM → Senior EM → Director of Engineering → VP of Engineering → CTO
 
